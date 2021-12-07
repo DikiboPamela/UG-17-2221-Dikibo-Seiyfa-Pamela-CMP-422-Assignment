@@ -1,1 +1,4 @@
 # UG-17-2221-Dikibo-Seiyfa-Pamela-CMP-422-Assignment
+
+DISPLAYED BY DIKIBO SEIYFA PAMELA # UG-17-2221
+THE FILES STORED ON THIS RESPOSITORY INCLUDE A C++ CODE A FLOW CHART AND THE README.md THE NECESSARY TERMS OBSERVED IN THE SIMULATION PROGRAM INCLUDE; double Clock, MeanInterArrivalTime, MeanServiceTime, SIGMA, LastEventTime, TotalBusy, MaxQueueLength, SumResponseTime; long NumberOfCustomers, QueueLength, NumberInService, TotalCustomers, NumberOfDepartures, LongService; ALL THESE WILL BE THE NECESSARY TOOLS FOR IDENTIFYING A SINGLE SERVER SIMULATION.
